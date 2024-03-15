@@ -1,0 +1,5 @@
+a = int(input('첫번 째 과목 점수: '))
+b = int(input('두번 째 과목 점수: '))
+c = int(input('세번 째 과목 점수: '))
+print('총점: ', a+b+c)
+print('평균: ', (a+b+c)/3)
